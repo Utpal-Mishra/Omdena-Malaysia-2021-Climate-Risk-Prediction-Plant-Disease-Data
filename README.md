@@ -1,2 +1,2 @@
-# Omdena-Malaysia-2021-Climate-Risk-Prediction-Plant-Disease-Data
-Omdena-Malaysia-2021-Climate-Risk-Prediction-Plant-Disease-Data
+# Omdena-Malaysia-2021-Crop-Disease-Classification-Plant-Disease-Data
+Omdena-Malaysia-2021-Crop-Disease-Classification-Plant-Disease-Data
